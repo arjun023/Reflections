@@ -1,0 +1,17 @@
+till now lesson now was :-
+
+-Intro of why do we need version control
+-To compare file in windows we use "FC" command
+
+-And to run notepad directly with git bash :
+alias notepad="/c/Program\ Files\ \(x86\)/Notepad++/notepad++.exe"
+
+-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+if often happens , that some unexpected output occurs for some modified code , here the previous version of code is required.
+thus having history can save the chaos and grow an efficient programmer.
+
+
+
+now i am adding some text preferably random just to check the functioning of :
+git log :- gives entire commit history with commit id's.
+git diff id1 id2 :-  id1 is the id of the 1st commit , simillary id2 for second.

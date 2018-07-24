@@ -1,0 +1,4 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+
+On initialising a repository , we are on the branch master , no commit changes and untracked files are observed.
+we need a repository to allow operations on it via git .
